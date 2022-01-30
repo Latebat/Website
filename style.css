@@ -64,6 +64,11 @@ a {
 	font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
+.verdana-texts {
+	font-family: Verdana, Geneva, Tahoma, sans-serif;
+	color: #00124E;
+}
+
 .centerd-text {
 	text-align: center;
 	display: flex;
