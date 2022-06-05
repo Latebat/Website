@@ -1,0 +1,12 @@
+hypixel images
+
+  <div class="hypixel">
+      <center>
+      Hypixel Network level/Achievement points<br>
+        Main account<br><br>
+       <a href="https://plancke.io/hypixel/player/stats/latebat">
+        <img src="https://gen.plancke.io/exp/fb3ded1b-bf11-448d-8dc9-e71f7cf5739c.png" class="hvr-bounce-out"><br>
+        </a>
+        <a href="https://plancke.io/hypixel/player/stats/latebat">
+        <img src="https://gen.plancke.io/achievementPoints/fb3ded1b-bf11-448d-8dc9-e71f7cf5739c.png" class="hvr-bounce-out">
+          </a>
